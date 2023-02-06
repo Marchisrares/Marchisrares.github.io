@@ -1,0 +1,5 @@
+1. Bootrstrap (to create responsive layouts)
+2. WOW.js (+ animate.css to create scrol reveal animations)
+3. Tweem,ax (to reveal navigation)
+4. Ionicons
+4. Google fonts(Roboto Mono)
